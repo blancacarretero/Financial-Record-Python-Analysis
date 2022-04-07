@@ -1,1 +1,0 @@
-# Financial-Record-Python-Analysis
